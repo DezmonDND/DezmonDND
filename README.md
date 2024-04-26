@@ -10,7 +10,7 @@
 * Люблю путешествовать.
 * Веду канал о путешествиях на [YouTube](https://www.youtube.com/@dreamers_travelers/videos).
 * Люблю изучать иностранные языки.
-* Сейчас активно ищу работу, вот мое резюме.
+* Сейчас активно ищу работу, вот мое [резюме](https://kemerovo.hh.ru/resume/6585ce64ff06ce9fce0039ed1f763936384874).
 * Со мной можно связаться:
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DezmonDND)
